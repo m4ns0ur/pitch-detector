@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="text_view_peak_layout_width">60dp</dimen>
+    <dimen name="button_button_height">40sp</dimen>
+    <dimen name="button_text_font_size">10sp</dimen>
+    <dimen name="button_text_small_font_size">12sp</dimen>
+
+</resources>

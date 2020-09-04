@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pitch Detector</string>
+    <string name="text_view_peak_text">Peak:XXXXX.XHz(AX#+XX) -XXX.XdB</string>
+    <string name="text_peak">Peak:</string>
+    <string name="sample_s">SAMPLE/S</string>
+    <string name="fftlen">FFT LEN</string>
+    <string name="ave">N AVE</string>
+    <string name="sample_rates_name">SAMPLE/S::0</string>
+    <string name="fft_len_name">FFT LEN::0</string>
+    <string name="fft_ave_num_name">N AVE::0</string>
+    <string name="permission_explanation_title">Permission denied</string>
+    <string name="permission_explanation_recorder">The microphone permission is required</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dba">dbA</string>
+    <string name="db">db</string>
+    <string name="pause">|></string>
+    <string name="run">||</string>
+
+</resources>
